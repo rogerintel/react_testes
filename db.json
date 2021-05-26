@@ -26,6 +26,18 @@
       "valor": "20",
       "data": "24/05/2021",
       "id": 4
+    },
+    {
+      "transacao": "saque",
+      "valor": "10",
+      "data": "25/05/2021",
+      "id": 5
+    },
+    {
+      "transacao": "saque",
+      "valor": "10",
+      "data": "25/05/2021",
+      "id": 6
     }
   ]
 }
