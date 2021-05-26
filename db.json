@@ -1,6 +1,6 @@
 {
   "conta": {
-    "saldo": 1080
+    "saldo": 990
   },
   "transacoes": [
     {
@@ -38,6 +38,42 @@
       "valor": "10",
       "data": "25/05/2021",
       "id": 6
+    },
+    {
+      "transacao": "saque",
+      "valor": "10",
+      "data": "25/05/2021",
+      "id": 7
+    },
+    {
+      "transacao": "saque",
+      "valor": "10",
+      "data": "25/05/2021",
+      "id": 8
+    },
+    {
+      "transacao": "saque",
+      "valor": "10",
+      "data": "25/05/2021",
+      "id": 9
+    },
+    {
+      "transacao": "saque",
+      "valor": "10",
+      "data": "25/05/2021",
+      "id": 10
+    },
+    {
+      "transacao": "saque",
+      "valor": "10",
+      "data": "25/05/2021",
+      "id": 11
+    },
+    {
+      "transacao": "saque",
+      "valor": "10",
+      "data": "25/05/2021",
+      "id": 12
     }
   ]
 }
